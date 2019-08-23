@@ -10,10 +10,7 @@ function Constants(){
           {id: 'rosario', name: 'Rosario', datos: {numLink:28,pcLink:43.8,numNoLink:36,pcNoLink:56.3,numMale:504,numFemale:64,pcMale:88.7,pcFemale:11.3,totalNames:568}, center: [-60.6553737,  -32.9427715]},
           {id: 'buenosaires', name: 'Buenos Aires', datos: {numLink:86,pcLink:67.7,numNoLink:41,pcNoLink:32.3,numMale:1941,numFemale:127,pcMale:93.9,pcFemale:6.1,totalNames:2068}, center: [-58.37723, -34.61315]}]},
         {id: 'espana', name: 'España', citiesList:[
-          {id: 'badalona', name: 'Badalona', datos: {numLink:37,pcLink:94.9,numNoLink:2,pcNoLink:5.1,numMale:305,numFemale:39,pcMale:88.7,pcFemale:11.3,totalNames:344}, center: [2.24741, 41.45004]},
-          {id: 'barcelona', name: 'Barcelona', datos: {numLink:123,pcLink:69.1,numNoLink:55,pcNoLink:30.9,numMale:911,numFemale:178,pcMale:83.7,pcFemale:16.3,totalNames:1089}, center: [2.154007, 41.390205]},
-          {id: 'girona', name: 'Girona', datos: {numLink:42,pcLink:77.8,numNoLink:12,pcNoLink:22.2,numMale:279,numFemale:54,pcMale:83.8,pcFemale:16.2,totalNames:333}, center: [2.8239, 41.9842]}
-        ]},
+          {id: 'barcelona', name: 'Barcelona', datos: {numLink:229,pcLink:69.4,numNoLink:101,pcNoLink:30.6,numMale:1795,numFemale:330,pcMale:84.5,pcFemale:15.5,totalNames:2125}, center: [2.154007, 41.390205]}]},
 	      {id: 'mexico', name: 'México', citiesList:[
           {id: 'cdmx', name: 'C. de México', datos: {numLink:161,pcLink:47.8,numNoLink:176,pcNoLink:52.2,numMale:2577,numFemale:337,pcMale:88.4,pcFemale:11.6,totalNames:2914}, center: [-99.133205, 19.432608 ]}]},
 	      {id: 'bolivia', name: 'Bolivia', citiesList:[
@@ -63,24 +60,22 @@ function Constants(){
                 chartText1: 'Dones amb article a Wikipedia'
             },
             popupText: 'Carrer sense article'
-        },       
-        "en" : {
-	
-          panelDescriptionText1 : "Map generated from the data obtained of Women Street names in Spanish speaking cities (Latin America and Spain).", 
-          panelDescriptionText2 : "The objective is visualize the historic gap representing women figures in the streets of the cities.", 
-          panelDescriptionTextShort: "Map of the streets containing women's names in cities of Latin America and Spain, visualizing the gap representing women figures in the cities.",
-          panelProjectBy: "A project from",
-          panelProjectBy2: "Project from",       
-          menuTitle: "The street of the women",
-          chartTxt: {
-            chartMen: "Men", 
-            chartWomen: "Women", 
-            chartStreetsOf: "The street of",
-            chartHave: "have",
-            chartNotHave: "doesn't have",
-            chartText1: "Women having a Wikipedia article"
-          },        
-          popupText: "Street without article"
-        }
+        }        
+/*         "en" : {
+            panelDescriptionText1 : 'Mapa generat a partir dels carrers amb nom de dones, a diferents ciutats de parla hispana (Llatinoamèrica i Espanya).',
+            panelDescriptionText2 : 'L\'objectiu és visibilitzar la bretxa que existeix històricament en la representació de figures femenines en els carrers de les ciutats.',
+            panelDescriptionTextShort: 'Mapa dels carrers amb nom de dona en ciutats de Llatinoamèrica i Espanya, per visibilitzar la bretxa que existeix en la representació de figures femenines a les ciutats.',
+            panelProjectBy: 'Un projecte de',
+            panelProjectBy2: 'Projecte de',
+            menuTitle: 'Las calles de las mujeres',
+            chartTxt: {
+                chartMen: 'Homes',
+                chartWomen: 'Dones',
+                chartStreetsOf: 'Carrers de',
+                chartHave: 'té',
+                chartNotHave: 'no té',
+                chartText1: 'Dones amb article a Wikipedia'
+            }
+        } */
     }
 }

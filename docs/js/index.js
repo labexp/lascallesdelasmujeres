@@ -1,6 +1,6 @@
 
 
-var initApp = (function (){
+function initApp(){
 
 
     const constants = new Constants();
@@ -231,12 +231,11 @@ var initApp = (function (){
     function isBlank(str) {
         return (!str || /^\s*$/.test(str));
     }
-});
+}
 
 
 
 window.onload = function() {
-
     var myApp = initApp;
     myApp();
 
