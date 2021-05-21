@@ -34,6 +34,7 @@ The project is still under development. The idea is to gradually expand the numb
 
 Work in progress:
 - Santa Fe, Argentina
+- Salta, Argentina
 
 
 ## Built with:
@@ -76,6 +77,8 @@ Join our slack channel [#lascallesdelasmujeres](https://join.slack.com/t/geochic
 
 * **Noe Ortiz** (*México*)
 
+* **Horacio Castellaro** (*Argentina*)
+
 
 ## Allied organizations
 
@@ -90,7 +93,8 @@ Join our slack channel [#lascallesdelasmujeres](https://join.slack.com/t/geochic
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under *CC BY-SA* License - see the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) file for details
+
 
 ## Knowledgement
 

@@ -78,6 +78,8 @@ Contacta con nostras a través de twitter: [@geochicasosm](https://twitter.com/G
 
 * **Noe Ortiz** (*México*)
 
+* **Horacio Castellaro** (*Argentina*)
+
 
 ## Organizaciones Aliadas
 
@@ -92,7 +94,7 @@ Contacta con nostras a través de twitter: [@geochicasosm](https://twitter.com/G
 
 ## Licencia
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under *CC BY-SA* License - see the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) file for details
 
 ## Reconocimiento
 
