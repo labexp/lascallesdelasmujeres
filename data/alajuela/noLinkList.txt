@@ -1,52 +1,26 @@
 
-Calle Jessenia Zamora
-Calle Margarita Rodríguez
-Calle Guadalupe
-Calle Emérita Araya
-Calle La Hilda
-Calle María Eugenia
-Calle Arrieta Barrantes
-Calle Nazareth
-Calle María Ramos
-Calle La Catalina
-Calle La Paula
-Calle Constancia
-Calle Damaris
-Calle La Luisa
-Calle Isela
-Calle Alicia
-Calle Rosalía
-Calle Cora
-Calle Concha
-Calle Milagro
-Calle Victoria
-Calle María Mejías
-Calle Mimi
-Calle Matilda
-Calle Mercedes
-Avenida Minerva
-Calle Mónica
 Calle María Elena
-Calle La Margarita
-Calle Andalucía
-Calle La Eli
-Avenida Lilian
-Calle Mayra
-Avenida Bertilia
-Calle Sonia
-Calle Florencia
 Calle Julieta
-Avenida Rosario
+Calle Elia
+Calle Julieta Sur
 Calle María Isabel
-Calle La Claudia
+Calle Mayra
+Avenida Lilian
+Calle Sonia
+Calle Elizabeth
+Calle Fátima
+Calle Enilda
 Calle Sophia
-Calle Betania
-Calle La Paulina
-Calle Claudia
+Calle Évora
 Avenida Alexa
-Calle Miranda
-Calle Nora Villegas
-Calle La Matilde
-Avenida Victoria
-Calle La Simona
-Calle Abelina
+Calle Los Araya
+Calle Elizabeth Este
+Calle Santa Clara
+Calle Julieta Norte
+Calle María Luisa
+Calle Grecia
+Calle Santa Marta
+Calle Elizabeth Oeste
+Avenida Santa Teresita
+Calle Doña Bella
+Calle María Auxiliadora
