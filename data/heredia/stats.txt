@@ -1,1 +1,1 @@
-{"numLink":14,"pcLink":"19.7","numNoLink":57,"pcNoLink":"80.3","numMale":132,"numFemale":71,"pcMale":"65.0","pcFemale":"35.0","totalNames":203}
+{"numLink":6,"pcLink":"25.0","numNoLink":18,"pcNoLink":"75.0","numMale":53,"numFemale":24,"pcMale":"68.8","pcFemale":"31.2","totalNames":77}
